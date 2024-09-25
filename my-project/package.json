@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "This is a simple project",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
